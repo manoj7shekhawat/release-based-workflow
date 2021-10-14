@@ -1,0 +1,2 @@
+- name: Release Drafter Action
+  uses: hengkyawijaya/release-drafter-action@v0.0.5
